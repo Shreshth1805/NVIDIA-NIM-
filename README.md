@@ -31,31 +31,7 @@ Upload your documents, generate embeddings, and ask questions directly from the 
 
 ---
 
-# 💻 MacBook Preview
 
-<div align="center">
-
-```text
- ___________________________________________
-|                                           |
-|  NVIDIA NIM RAG Assistant                 |
-|___________________________________________|
-|                                           |
-|  🔍 Ask your documents anything...        |
-|                                           |
-|  > What is the population growth rate?    |
-|                                           |
-|  🤖 Based on the document context...      |
-|                                           |
-|___________________________________________|
-     \_______________________________/
-      \_____________________________/
-       |                           |
-       |                           |
-       |___________________________|
-```
-
-</div>
 
 ---
 
