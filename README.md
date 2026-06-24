@@ -285,7 +285,7 @@ If you found this project useful:
 
 <div align="center">
 
-### Built with ❤️ using NVIDIA NIM + LangChain
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=76B900&center=true&vCenter=true&width=600&lines=Happy+Coding!;Powered+by+NVIDIA+AI;Retrieval-Augmented+Generation" />
 
